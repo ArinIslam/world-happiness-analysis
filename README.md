@@ -25,8 +25,6 @@ The analysis utilizes global development, economic, and social indicators. Key f
 
 ## 🛠️ Repository Structure
 ```text
-├── data/
-│   └── World_happiness_report_2024.csv    # Cleansed analysis dataset
 ├── notebooks/
 │   └── happiness_analysis.ipynb           # Main Google Colab development notebook
 └── README.md                              # Project documentation
